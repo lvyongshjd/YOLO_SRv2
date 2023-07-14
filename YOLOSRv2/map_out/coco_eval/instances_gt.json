@@ -1,0 +1,106 @@
+{
+    "images": [],
+    "categories": [
+        {
+            "supercategory": "aeroplane",
+            "name": "aeroplane",
+            "id": 1
+        },
+        {
+            "supercategory": "bicycle",
+            "name": "bicycle",
+            "id": 2
+        },
+        {
+            "supercategory": "bird",
+            "name": "bird",
+            "id": 3
+        },
+        {
+            "supercategory": "boat",
+            "name": "boat",
+            "id": 4
+        },
+        {
+            "supercategory": "bottle",
+            "name": "bottle",
+            "id": 5
+        },
+        {
+            "supercategory": "bus",
+            "name": "bus",
+            "id": 6
+        },
+        {
+            "supercategory": "car",
+            "name": "car",
+            "id": 7
+        },
+        {
+            "supercategory": "cat",
+            "name": "cat",
+            "id": 8
+        },
+        {
+            "supercategory": "chair",
+            "name": "chair",
+            "id": 9
+        },
+        {
+            "supercategory": "cow",
+            "name": "cow",
+            "id": 10
+        },
+        {
+            "supercategory": "diningtable",
+            "name": "diningtable",
+            "id": 11
+        },
+        {
+            "supercategory": "dog",
+            "name": "dog",
+            "id": 12
+        },
+        {
+            "supercategory": "horse",
+            "name": "horse",
+            "id": 13
+        },
+        {
+            "supercategory": "motorbike",
+            "name": "motorbike",
+            "id": 14
+        },
+        {
+            "supercategory": "person",
+            "name": "person",
+            "id": 15
+        },
+        {
+            "supercategory": "pottedplant",
+            "name": "pottedplant",
+            "id": 16
+        },
+        {
+            "supercategory": "sheep",
+            "name": "sheep",
+            "id": 17
+        },
+        {
+            "supercategory": "sofa",
+            "name": "sofa",
+            "id": 18
+        },
+        {
+            "supercategory": "train",
+            "name": "train",
+            "id": 19
+        },
+        {
+            "supercategory": "tvmonitor",
+            "name": "tvmonitor",
+            "id": 20
+        }
+    ],
+    "annotations": []
+}

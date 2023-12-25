@@ -2,6 +2,7 @@
 This is the source code about YOLOSR_ V2.
 
 If you use this data set, please cite these papers:
+
 [1] Yong Lv, Yuemei Fang, Wenzheng Chi*, Guodong Chen and Lining Sun. Object detection for sweeping robots in home scene (ODSR-IHS): A novel benchmark dataset[J]. IEEE Access,2021,9: 17820-17828.
 
 [2] Yong Lv, Jie Liu, Wenzheng Chi*, et al. An Inverted Residual based Lightweight Network for Object Detection in Sweeping Robots[J]. Applied Intelligence, 2022:1-16

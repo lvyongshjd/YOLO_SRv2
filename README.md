@@ -1,7 +1,7 @@
 # YOLO_SRv2
 This is the source code about YOLOSR_ V2.
 
-If you use this data set, please cite these papers:
+If you use this dataset, please cite these papers:
 
 [1] Yong Lv, Yuemei Fang, Wenzheng Chi*, Guodong Chen and Lining Sun. Object detection for sweeping robots in home scene (ODSR-IHS): A novel benchmark dataset[J]. IEEE Access,2021,9: 17820-17828.
 
